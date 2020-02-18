@@ -1,2 +1,4 @@
 # Progects_Programs
-Bla-Bla Abdia
+Бла-Бла-Бла и абдя!
+
+Мой IQ равет 3-м, и я не подведу!
