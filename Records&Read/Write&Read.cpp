@@ -49,7 +49,7 @@ void Read_Object_in_File(Point point)
 {
     string path = "Default_File_Name.txt";
     ifstream file;
-    file.open(path, ofstream::app);
+    file.open(path);
 
     if (!file.is_open())
     {
